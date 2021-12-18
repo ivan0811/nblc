@@ -1,0 +1,305 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap');
+
+.font-header0{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 800;
+    font-size: calc(4vw + 5px);
+    line-height: 150%;
+}
+
+.font-header1{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: calc(3vw - 1px);    
+    line-height: calc(4vw - 0.6px);
+    /* line-height: 57px; */
+}
+
+.font-header2{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: calc(3vw + 1px);
+    line-height: calc(4vw + 2.4px);
+    /* line-height: 60px; */
+}
+
+.font-header3{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: calc(2vw + 4px);    
+    line-height: calc(3vw + 0.8px);
+    /* line-height: 44px; */
+}
+
+.font-header4{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: calc(2vw - 6.8px);
+    /* font-size: 22px; */
+    line-height: calc(2vw + 1.2px);
+    /* line-height: 30px; */
+}
+
+.font-header5{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: calc(2vw - 2.8px);
+    /* font-size: 26px; */        
+    line-height: calc(3vw - 8.2px);
+    /* line-height: 35px; */    
+}
+
+.font-header6{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: calc(1vw + 4px);
+    line-height: calc(2vw + 9.2px);
+}
+
+.font-subheader1{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: calc(1vw + 2.8px);        
+    line-height: calc(2vw - 3.8px);
+    /* line-height: 25px; */
+    /* identical to box height */
+
+    letter-spacing: 0.15em;
+}
+
+.font-subheader2{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: calc(1vw + 2.8px);
+    line-height: calc(2vw + 1.2px);        
+    /* line-height: 30px; */
+}
+
+.link-text2{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: calc(1vw + 2.4px);    
+    line-height: 120%;        
+    letter-spacing: -0.03em;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+
+.font-link1{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: calc(1vw + 2px);
+    line-height: calc(2vw - 6.8px);
+    /* line-height: 22px;     */
+    /* identical to box height, or 137% */
+    text-decoration: none;
+    font-feature-settings: 'salt' on, 'liga' off;
+}
+
+.font-link3{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: calc(1vw - 2.4px);   
+    line-height: calc(2vw + 1.2px); 
+    /* line-height: 30px; */
+    text-decoration: none;
+}
+
+.font-placeholder{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: calc(1vw + 2.4px);
+    /* font-size: 16px; */
+    line-height: 120%;
+    /* or 19px */
+
+    letter-spacing: -0.03em;    
+}
+
+.font-button{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: calc(1vw + 2.4px) !important;    
+    line-height: 120%;
+    /* identical to box height, or 19px */
+    letter-spacing: -0.03em;
+    text-transform: capitalize;
+}
+
+.font-button2{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: calc(1vw + 2.4px) !important;    
+    line-height: 160%;        
+}
+
+.font-content{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: calc(1vw + 2.4px);
+    line-height: calc(2vw + 1.2px);
+    /* line-height: 30px; */
+}
+
+.font-content2{
+    font-family:'Open Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: calc(1vw + 4.4px);
+    line-height: calc(2vw + 1.2px);
+    /* line-height: 25px; */    
+}
+
+.font-content3{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: calc(1vw - 2.4px);
+    line-height: calc(2vw + 1.2px);
+    /* line-height: 30px; */
+}
+
+.font-content4{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: calc(1vw - 2.4px);
+    line-height: calc(2vw - 4.8px);
+    /* line-height: 24px; */
+    font-feature-settings: 'salt' on, 'liga' off;
+}
+
+.font-content5{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: calc(1vw - 2.4px);
+    line-height: calc(2vw + 1.2px);  
+}
+
+.font-copyright{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: calc(1vw - 0.4px);    
+    line-height: 20px;
+    color: #AFB5C0;
+}
+
+@media (max-width: 1058px){
+    .font-header4{
+        font-size: 18px;
+        line-height: 30px;
+    }
+    
+    .font-content{
+        font-size: 13px;
+        line-height: 30px;
+    }
+}
+
+@media (max-width: 960px) {
+    .font-header1{              
+        font-size: 28px;
+        line-height: 38px;        
+    }
+    
+    .font-header2{
+        font-size: 26px;
+        line-height: 35px;        
+    }
+    
+    .font-header3{
+        font-size: 22px;
+        line-height: 30px;
+    }
+    
+    
+    
+    .font-header5{
+        font-size: 22px;
+        line-height: 30px;    
+    }
+
+    .font-header6{        
+        font-size: 14px;
+        line-height: 30px;
+    }
+    
+    .font-subheader1{
+        font-size: 12px;        
+        line-height: 16px;  
+    }
+    
+    .font-subheader2{
+        font-size: 13px;
+        line-height: 30px;              
+    }
+    
+    .link-text2{
+        font-size: 12px;                    
+    }
+    
+    .font-link1{
+        font-size: calc(1vw + 2px);
+        line-height: calc(2vw - 6.8px);
+        /* line-height: 22px;     */
+        /* identical to box height, or 137% */        
+    }
+    
+    .font-link3{                
+        font-size: 14px;
+        line-height: 30px;         
+    }
+    
+    .font-placeholder{
+        font-size: 14px;    
+        line-height: 120%;                        
+    }    
+    
+    .font-button{
+        font-size: 16px !important;
+        line-height: 120%;
+    }    
+    
+    .font-content2{           
+        font-size: 14px;
+        line-height: 19px;
+    }
+    
+    .font-content3{
+        font-size: 12px;
+        line-height: 30px;  
+    }
+    
+    .font-content4{
+        font-size: 12px;
+        line-height: 24px;       
+    }
+
+    .font-content5{
+        font-size: 9px;
+        line-height: 30px;  
+    }
+    
+    .font-copyright{              
+        font-size: 14px;
+        line-height: 20px;
+    }    
+}
